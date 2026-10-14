@@ -1,0 +1,13 @@
+duckdb
+jupysql
+duckdb-engine
+pandas
+pyarrow
+requests
+matplotlib
+seaborn
+plotly
+scikit-learn
+lightgbm
+shap
+streamlit
